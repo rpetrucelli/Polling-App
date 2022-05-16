@@ -4,8 +4,7 @@
 ## General Information
   This project is a simple full-stack polling web application. 
   Being my first experience using Django to create a full-stack app, it's purpose was mainly to serve as a way for me to become familiar and comfortable
-  with the framework. Functionalities include web API with voting functionality, a customized administration site to manage both questions and answers, 
-  SQLite database for easy data migration and storage, and a fully automated test suite for fast application testing. This repo will be continuously updated as build out the application further
+  with the framework. Implemented functionalities include web API with voting capability, a customized administration site to manage both questions and answers, SQLite database for easy data migration and storage, and a fully automated test suite for fast application testing. This repo will be continuously updated as I continue to build out the application further
 
 
 ## Technologies & Languages
