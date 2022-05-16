@@ -1,0 +1,13 @@
+
+/*
+Very basic styling with css, this will be built out and formatted more later.
+we import our background photo from within the images directory
+*/
+
+li a {
+    color: green;
+}
+
+body {
+    background: white url("images/background.gif") no-repeat;
+}
